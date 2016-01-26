@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JMS Media]]></title>
         <description><![CDATA[JMS Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jmsmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 21:48:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 21:56:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jmsmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everything we do is built for excellence.]]></title>
+            <description><![CDATA[<article><h1>Everything we do is built for excellence.</h1><p>ABOUT</p></article>]]></description>
+            <link>https://thegrid.ai/jmsmedia/02f2fb33-8c63-4dd1-b82e-0aa84fd5f01e/index.html</link>
+            <guid isPermaLink="false">02f2fb33-8c63-4dd1-b82e-0aa84fd5f01e</guid>
+            <pubDate>Tue, 26 Jan 2016 21:56:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>PREMIUM WEB AND MOBILE DESIGN AND DEVELOPMENT</p>]]></description>
-            <link>undefined82907188-bc74-4006-b91a-d0110f5f63a2/index.html</link>
+            <link>https://thegrid.ai/jmsmedia/82907188-bc74-4006-b91a-d0110f5f63a2/index.html</link>
             <guid isPermaLink="false">82907188-bc74-4006-b91a-d0110f5f63a2</guid>
             <pubDate>Tue, 26 Jan 2016 21:48:19 GMT</pubDate>
         </item>
